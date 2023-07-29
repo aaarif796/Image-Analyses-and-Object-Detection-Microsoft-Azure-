@@ -4,6 +4,7 @@
 
 - **Image Description**: Generate descriptive captions for images to understand their contents quickly.
 - **Object Detection**: Detect and identify multiple objects in an image and objects present in the Image.
+- **Graphical User Interface (GUI)**: Provides an intuitive GUI powered by tkinter for a seamless user experience.
 
 ## Getting Started
 
